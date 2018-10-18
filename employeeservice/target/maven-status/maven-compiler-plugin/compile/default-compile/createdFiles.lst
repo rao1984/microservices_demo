@@ -1,0 +1,4 @@
+com\poc\microservice\employeeservice\App.class
+com\poc\microservice\employeeservice\EmployeeServer.class
+com\poc\microservice\employeeservice\model\Employee.class
+com\poc\microservice\employeeservice\controller\EmployeeController.class
